@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Patterns/src/com/kodnest/training/patterns/Untitled 1&apos; to &apos;Question&apos;" description="Rename resource &apos;Untitled 1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kodnest/training/patterns/Untitled 1" name="Question" stamp="1690448952082" updateReferences="true"/>
+</session>

@@ -1,0 +1,14 @@
+package com.kodnest.training.strings;
+
+public class MutableStrings {
+
+	public MutableStrings() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

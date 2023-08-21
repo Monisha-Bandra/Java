@@ -1,0 +1,18 @@
+package com.kodnest.training.java;
+
+public class session2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a, b;
+		byte b = 40.04;
+		char c = "Kodnest";
+		long l = 44.567891;
+		int l = b + a;
+		byte k = (8 + 4) + (4 + 8) + 5;
+		System.out.println(k);
+
+	}
+
+}

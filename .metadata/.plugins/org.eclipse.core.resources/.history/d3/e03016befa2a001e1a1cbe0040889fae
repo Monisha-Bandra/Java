@@ -1,0 +1,21 @@
+package com.kodnest.training.java;
+
+import java.util.Scanner;
+
+public class GCDApp {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter two numbers");
+		int m = scan.nextInt();
+		int n =  scan.nextInt();
+		
+		GCD.findGCD(m, n);
+		
+		System.out.println("The GCD of " + m + " and " + n + " is " + res);
+		
+		scan.close();
+	}
+
+}
